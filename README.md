@@ -1,6 +1,6 @@
-                                                                Design Patterns - Singleton
+Design Patterns - Singleton
 
-                                                                         Singleton
+Singleton
 
 Também conhecido como "Carta Única". O Singleton é um padrão de projeto criacional que permite a você garantir que uma classe tenha apenas uma instância, enquanto provê um ponto de acesso global para essa instância.
 O padrão Singleton resolve dois problemas de uma só vez, violando o princípio de responsabilidade única:
